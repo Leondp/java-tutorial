@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/domain/client/Client.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/PopulateDatabase.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/web/StatsAndErrorFilter.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/data/ClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/web/WelcomeServlet.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/data/InMemoryClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/Start.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/web/ClientServlet.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/web/TestServlet.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/src/za/co/myapp/data/DatabaseClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%205%20-%20Web%20Apps/web/client.jsp</file>
+        </group>
+    </open-files>
+</project-private>

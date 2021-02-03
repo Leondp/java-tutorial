@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/resource/GenericExceptionMapper.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/data/ClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/resource/ClientResource.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/data/InMemoryClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/domain/client/Client.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/resource/JerseyConfig.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/TestServlet.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/resource/ExceptionTo.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/ClientServlet.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%206%20-%20JAX-RS/src/za/co/myapp/web/StatsAndErrorFilter.java</file>
+        </group>
+    </open-files>
+</project-private>

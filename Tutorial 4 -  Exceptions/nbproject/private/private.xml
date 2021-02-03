@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/Start.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/domain/exception/ValidationException.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/data/ClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/data/InMemoryClientRepository.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/domain/exception/ClientCreationException.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/PopulateDatabase.java</file>
+            <file>file:/home/leon/NetBeansProjects/Tutorial%204%20-%20%20Exceptions/src/za/co/myapp/data/DatabaseClientRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
